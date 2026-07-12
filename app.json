@@ -1,0 +1,13 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "热身教练",
+    "navigationBarBackgroundColor": "#0f0f14",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#0f0f14"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }
+}
